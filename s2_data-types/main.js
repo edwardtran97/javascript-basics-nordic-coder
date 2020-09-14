@@ -472,8 +472,8 @@ console.log(sum(-2));
 
 //  Đếm số lượng chữ số của một số nguyên dương
 const numberLength = (number) => {
-    if (number <= 0){
-        console.log('Please enter number > 0');
+    if (number <= 0 || Number.isInteger(number) === false){
+        console.log('Please enter integer number > 0');
         return;
     }
 
@@ -482,3 +482,7 @@ const numberLength = (number) => {
 numberLength(12345);
 numberLength(0);
 numberLength(015);
+numberLength(150);
+numberLength(1.5);
+numberLength(0123456789);
+numberLength(1234567890);
