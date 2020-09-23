@@ -4,7 +4,7 @@
 
 ### OOP (Object Orient Programming): tất cả đều quy đổi tất cả về object
    
-- Class: khuôn mẫu, khung mẫu, bản mẫu (là nơi định các attribute, method)
+- Class: khuôn mẫu, khung mẫu, bản mẫu (là nơi định nghĩa các attribute, method)
 - Object: được tạo ra từ class với nhiều attribute và method khác nhau
 - Attribute: các thuộc tính của đối tượng đó
 - Method: những hành động (các hàm)
