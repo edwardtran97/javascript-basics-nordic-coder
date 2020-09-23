@@ -2,7 +2,7 @@
 
 ## Có 2 trường phái lập trình: OOP và Functional Programming
 
-### OOP (Object Orient Programming): tất cả đều quy đổi tất cả về object
+### OOP (Object Oriented Programming): tất cả đều quy đổi về object
    
 - Class: khuôn mẫu, khung mẫu, bản mẫu (là nơi định nghĩa các attribute, method)
 - Object: được tạo ra từ class với nhiều attribute và method khác nhau
